@@ -12,6 +12,12 @@ function App() {
             <a href="mailto:example@mail.com"> i.a.fek@mail.com</a>
           </p>
         </header>
+        <main>
+          <section>About</section>
+          <section>Skills</section>
+          <section>Projects</section>
+        </main>
+        <footer></footer>
       </div>
     </>
   );
